@@ -1,7 +1,7 @@
 # Simulink Tcp Ip ( MATLAB 2016a)
- This repo contains client and server subsystem blocks.
+ This repo contains client and server subsystems.
 
- Struct data is sended with Simulink BusCreator.
+ Struct data is sended. (I used BusCreator and BusSelector blocks. )
 
  If you want to see source code:
 - right click on block
